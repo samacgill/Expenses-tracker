@@ -1,0 +1,11 @@
+.rightAlign {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end !important;
+}
+
+.checkImport {
+  background-color: purple;
+  width: 300px;
+  height: 100px;
+}
